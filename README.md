@@ -1,4 +1,4 @@
-# <a href="www.linkedin.com/in/nadezna-morris-ba095721b">Nadezna Morris</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/nadeznamorris/">Nadezna Morris</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 Passionate cybersecurity student eager to grow in vulnerability management, threat hunting, and incident response. Currently building practical projects to sharpen SOC analysis and security automation skills, with a strong drive to contribute to real-world cyber defense.
 
