@@ -16,7 +16,7 @@ Passionate cybersecurity student eager to grow in vulnerability management, thre
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="www.linkedin.com/in/nadezna-morris-ba095721b/| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="www.linkedin.com/in/nadezna-morris-ba095721b/ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: www.linkedin.com/in/nadezna-morris-ba095721b/
 
