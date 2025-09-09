@@ -10,7 +10,7 @@ Passionate cybersecurity student eager to grow in vulnerability management, thre
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/nadeznamorris/Threat-Hunt-Report-Unauthorized-TOR-Usage)**
 
 <hr/>
 
