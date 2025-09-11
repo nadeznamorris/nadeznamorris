@@ -5,7 +5,7 @@ Passionate cybersecurity student eager to grow in vulnerability management, thre
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Vulnerability Management Program Implementation](https://github.com/nadeznamorris/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
 
 ## 🚨 Threat Hunting and Security Operations
