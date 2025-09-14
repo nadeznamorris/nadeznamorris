@@ -7,7 +7,7 @@ Passionate cybersecurity student eager to grow in vulnerability management, thre
 
 - **[Vulnerability Management Program Implementation](https://github.com/nadeznamorris/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
-- **[STIGS Implementation]**
+- **[STIGS Implementation](https://github.com/nadeznamorris/STIGS-Impementation/tree/main/STIGS)**
 
 ## 🚨 Threat Hunting and Security Operations
 
