@@ -13,6 +13,7 @@ Passionate cybersecurity student eager to grow in vulnerability management, thre
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/nadeznamorris/Threat-Hunt-Report-Unauthorized-TOR-Usage)**
 - **[Threat Hunting Scenario (Papertrail)](https://github.com/nadeznamorris/Threat-Hunt/blob/main/Threat-Hunting-Scenario-Papertrail.md)**
+- **[Threat Hunting Scenario (Hide Your RDP)](https://github.com/nadeznamorris/Threat-Hunt-Senario-Hide-Your-RDP/blob/main/README.md)**
 
 <hr/>
 
