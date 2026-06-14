@@ -15,10 +15,10 @@ Passionate cybersecurity student eager to grow in vulnerability management, thre
 - **[Threat Hunting Scenario (Papertrail)](https://github.com/nadeznamorris/Threat-Hunt/blob/main/Threat-Hunting-Scenario-Papertrail.md)**
 - **[Threat Hunting Scenario (Hide Your RDP)](https://github.com/nadeznamorris/Threat-Hunt-Senario-Hide-Your-RDP/blob/main/README.md)**
 - **[Threat Hunting Scenario (Assistance)](https://github.com/nadeznamorris/Threat-Hunting-Scenario-Assistance/blob/main/README.md)**
-- **[Threat Hunting Scenario (The Broker - Ashford Sterling)](https://github.com/nadeznamorris/Threat-Hunt-Scenario-The-Broker/blob/main/README.md)**
-- **[Threat Hunting Scenario (The Buyer - Ashford Sterling)](https://github.com/nadeznamorris/Threat-Hunt-Scenario-The-Buyer/blob/main/README.md)**
 - **[Threat Hunting Scenario (Port of Entry - Azuki)](https://github.com/nadeznamorris/Threat-Huntung-Scenario-Port-Of-Entry/blob/main/README.md)**
 - **[Threat Hunting Scenario (Cargo Hold - Azuki)](https://github.com/nadeznamorris/Threat-Hunting-Scenario-Cargo-Hold/blob/main/README.md)**
+- **[Threat Hunting Scenario (The Broker - Ashford Sterling)](https://github.com/nadeznamorris/Threat-Hunt-Scenario-The-Broker/blob/main/README.md)**
+- **[Threat Hunting Scenario (The Buyer - Ashford Sterling)](https://github.com/nadeznamorris/Threat-Hunt-Scenario-The-Buyer/blob/main/README.md)**
 
 <hr/>
 
