@@ -23,6 +23,7 @@ Passionate cybersecurity student eager to grow in vulnerability management, thre
 - **[Threat Hunting Scenario (Crosscheck)](https://github.com/nadeznamorris/Threat-Hunting-Scenario-Crosscheck)**
 - **[Threat Hunting Scenario (The Broker - Ashford Sterling)](https://github.com/nadeznamorris/Threat-Hunt-Scenario-The-Broker/blob/main/README.md)**
 - **[Threat Hunting Scenario (The Buyer - Ashford Sterling)](https://github.com/nadeznamorris/Threat-Hunt-Scenario-The-Buyer/blob/main/README.md)**
+- **[Threat Hunting Scenario (EMBERFORGE Source Leak)](https://github.com/nadeznamorris/Threat-Hunting-Scenario-EMBERFORGE-Source-Leak)**
 
 <hr/>
 
